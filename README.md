@@ -25,21 +25,25 @@
 1. Log in using your credentials  
 2. Start with Level 1 (Caesar Cipher)  
 3. Solve puzzles using clues  
-4. Progress to higher levels as they unlock  
+4. Progress to higher levels as they unlock
+
+## 🌐 Live Demo
+
+Check it out here: https://cipherpuzzle.netlify.app
 
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](login.jpg)
+![Login](screenshots/login.jpg)
 
 ### 📝 Register Page
-![Register](Register.jpg)
+![Register](screenshots/Register.jpg)
 
 ### 🕹️ Game Levels
-![Levels](levels.jpg)
+![Levels](screenshots/levels.jpg)
 
 ### 👤 Profile Page
-![Profile](Profile.png)
+![Profile](screenshots/Profile.png)
 
 ## 📦 Folder Structure
 
